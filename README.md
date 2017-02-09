@@ -7,3 +7,4 @@ The repository has four components:
 <br>2) Experimental Search Strings.xlsx	- Lists the search strings used for experimenting with search features
 <br>3) Issues Snapshots.pdf	- Contains the snapshots to illustrate the inconsistencies observed during the execution of various features
 <br>4) Motivational Analysis.xlsx - Enlists information extracted from a set of 26 Software Engineering secondary studies published in 2016-2017
+<br>5) Features Description.pdf - Provides description of each feature and its sub features that are used to evaluate DLs
